@@ -1,6 +1,5 @@
-En keksinyt itse mitään mielenkiintoista aihetta, joten valitsen aiheeksi keskustelusovelluksen
 En kerennyt saamaan sovellusta toimivaan kuntoon kiireiden takia, joten käyn tämän kurssin joku toinen kerta myöhemmin uudella aiheella.
-
+En keksinyt itse mitään mielenkiintoista aihetta, joten valitsen aiheeksi keskustelusovelluksen
 
 
 Käyttäjä voi kirjautua sisään ja ulos sekä luoda uuden tunnuksen.
