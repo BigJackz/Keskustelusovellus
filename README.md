@@ -1,4 +1,7 @@
 En keksinyt itse mitään mielenkiintoista aihetta, joten valitsen aiheeksi keskustelusovelluksen
+En kerennyt saamaan sovellusta toimivaan kuntoon kiireiden takia, joten käyn tämän kurssin joku toinen kerta myöhemmin uudella aiheella.
+
+
 
 Käyttäjä voi kirjautua sisään ja ulos sekä luoda uuden tunnuksen.
 Käyttäjä näkee sovelluksen etusivulla listan alueista sekä jokaisen alueen ketjujen ja viestien määrän ja viimeksi lähetetyn viestin ajankohdan.
